@@ -4,8 +4,8 @@ Abelian Complexity Analysis Tool
 To see the some features of the library please see:
 examples.pdf
 
-Dependencies:
-import numpy as np
-import pandas as pd
-import matplotlib.pyplot as plt
-from matplotlib.pyplot import figure
+Dependencies:<br />
+import numpy as np <br />
+import pandas as pd <br />
+import matplotlib.pyplot as plt <br />
+from matplotlib.pyplot import figure<br />
