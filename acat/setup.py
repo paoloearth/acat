@@ -4,7 +4,7 @@ setup(
     name='acat',
     version='0.0.1',    
     description='Abelian Complexity Analysis Tool',
-    url='https://github.com/shuds13/pyexample',
+    url='https://github.com/paoloearth/acat',
     author='Paolo Pulcini',
     author_email='paoloearth@gmail.com',    
     license='BSD 2-clause',
