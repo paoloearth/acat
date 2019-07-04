@@ -7,8 +7,8 @@ setup(
     url='https://github.com/paoloearth/acat',
     author='Paolo Pulcini',
     author_email='paoloearth@gmail.com',    
-    license='BSD 2-clause',
-    packages=['pyexample'],
+    license='MIT',
+    packages=['acat'],
     install_requires=['pandas',
                       'numpy',
                       'matplotlib.pyplot'
@@ -16,11 +16,6 @@ setup(
 
     classifiers=[
         'Development Status :: 1 - Planning',
-        'Intended Audience :: Science/Research',
-        'License :: OSI Approved :: BSD License',  
-        'Operating System :: POSIX :: W10',        
-        'Programming Language :: Python :: 3',
-        'Programming Language :: Python :: 3.4',
-        'Programming Language :: Python :: 3.5',
+        'Intended Audience :: Science/Research',   
     ],
 )    
