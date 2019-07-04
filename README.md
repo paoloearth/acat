@@ -1,7 +1,7 @@
 # Abelian Complexity Analysis Tool
 
 To see the some features of the library please see: <br />
-[LINK](https://www.google.com) examples.pdf
+[examples.pdf](https://github.com/paoloearth/acat/blob/master/examples.pdf) 
 
 ### Dependencies:<br />
 import numpy as np <br />
