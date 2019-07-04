@@ -1,5 +1,4 @@
-# acat
-##Abelian Complexity Analysis Tool
+# Abelian Complexity Analysis Tool
 
 To see the some features of the library please see:
 examples.pdf
