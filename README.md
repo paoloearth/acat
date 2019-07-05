@@ -6,4 +6,4 @@ To see the some features of the library please see: <br />
 ### Dependencies:<br />
 numpy <br />
 pandas <br />
-import matplotlib <br />
+matplotlib <br />
