@@ -8,4 +8,4 @@ numpy <br />
 pandas <br />
 matplotlib <br />
 
-![ACAT](https://github.com/paoloearth/acat/blob/master/logosmall.PNG)
+![ACAT](https://github.com/paoloearth/acat/blob/master/logo_small.PNG)
