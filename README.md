@@ -7,3 +7,5 @@ To see the some features of the library please see: <br />
 numpy <br />
 pandas <br />
 matplotlib <br />
+
+![ACAT](https://github.com/paoloearth/acat/blob/master/logo.PNG)
