@@ -2,7 +2,7 @@
 
 ![ACAT](https://github.com/paoloearth/acat/blob/master/logo_small.png)
 
-To see some of the most relevant functions of the library please see: <br />
+To see some example of the most relevant functions of the library please see: <br />
 [examples.pdf](https://github.com/paoloearth/acat/blob/master/examples.pdf) 
 
 ### Dependencies:<br />
